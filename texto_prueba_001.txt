@@ -1,0 +1,5 @@
+nombre,edad,sexo
+renzo,30,M
+gino,24,M
+claudio,31,M
+Filipa,20,M
